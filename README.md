@@ -7,13 +7,22 @@ Perform data analysis on several thousand crowdfunding projects to be able to vi
 
 ### Theater Outcomes vs Launch
 The chart below presents Theater campaigns outcomes according to the month the projects were launched.
+This chart was prepared in from a pivotable from the Kickstarter data in the Excel, using filter for the parent category "theater". The rows were determined by the launch month of the projects to count the number of successful, failed, or canceled campaigns according to the month the campaigns were launched. There was no challenge to perform this task, however, difficulty may be encountered to understand the order the pivotable must be organized to bring the right information requested.
+###### Analysis:
 The month that launched the most successful theater campaigns was May. The number of successful projects started increasing in April, then in June the success of the projects started slowly declining.
 May, June, July and August had roughly the same number of failed campaigns launched, decreasing it in September, and the month that launched the most failed theater campaigns was October.
 ![This is an image](Theater_Outcomes_vs_Launch.png)
 
 ### Plays Outcomes vs Goals
-
-
+The chart below presents Play campaigns outcomes percentages according to the goal amount of the projects.
+This chart was prepared in the Excel from a list that applying COUNTIF formula brought the number of successful, failed and cancelled projects according to the dollar range of previous campaigns. It was challenging to create a COUNTIF formula with so many criteria and I had to watch tutorial videos to understand exactly for the formula works.
+###### Analysis:
+Projects with goal up to $10K had the most successful campaigns. The chart also presents an increase of successful campaigns between the goal range of $35-45K.
+Projects with goals over $15K had more failed than succeeded campaigns, except for the range of $35-45k mentioned before. Projects over $45K had the most failed campaigns.
 ![This is an image](Outcomes_vs_Goals.png)
+
+
+
+
 
 ## Results
