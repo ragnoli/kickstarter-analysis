@@ -1,9 +1,9 @@
 # kickstarter-analysis
 
-##Overview of Project
+## Overview of Project
 Visualize campaign outcomes based on their launch dates and their funding goals to be able to undestand and present the data to help Luise determining the fundraising goal and launch date for the play __Fever__. We believe that, by bringing the data into readable charts, Louise will be able to undestand the previous fundraisings campainges that succeded and use this information to determine details for her project.
 
-##Analysis and Challenges
+## Analysis and Challenges
 
 
-##Results
+## Results
