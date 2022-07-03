@@ -1,7 +1,7 @@
 # kickstarter-analysis
 
 ## Overview of Project
-Perform data analysis on several thousand crowdfunding projects to be able to visualize campaign outcomes based on their launch dates and their funding goals to understand and present the data and help Louise determining the fundraising goal and launch date for the play *Fever*. We believe that, by bringing the data into readable charts, Louise will be able to understand the previous fundraisings successful campaigns and use this information to determine details for her project.
+Perform data analysis on several thousand crowdfunding projects to be able to visualize campaign outcomes based on their launch dates and their funding goals to understand and present the data to help Louise determining the fundraising goal and launch date for the play *Fever*. We believe that, by bringing the data into readable charts, Louise will be able to understand the previous fundraisings successful campaigns and use this information to determine details for her project.
 
 ## Analysis and Challenges
 
