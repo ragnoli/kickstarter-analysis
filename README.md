@@ -5,5 +5,6 @@ Visualize campaign outcomes based on their launch dates and their funding goals 
 
 ## Analysis and Challenges
 
+![This is an image](/assets/images/Outcomes_vs_Goals.png)
 
 ## Results
