@@ -5,11 +5,13 @@ Perform data analysis on several thousand crowdfunding projects to be able to vi
 
 ## Analysis and Challenges
 
+### Theater Outcomes vs Launch
 The chart below presents Theater campaigns outcomes according to the month the projects were launched.
 The month that launched the most successful theater campaigns was May. The number of successful projects started increasing in April, then in June the success of the projects started slowly declining.
 May, June, July and August had roughly the same number of failed campaigns launched, decreasing it in September, and the month that launched the most failed theater campaigns was October.
 ![This is an image](Theater_Outcomes_vs_Launch.png)
 
+### Plays Outcomes vs Goals
 
 
 ![This is an image](Outcomes_vs_Goals.png)
