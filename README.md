@@ -21,8 +21,14 @@ Projects with goal up to $10K had the most successful campaigns. The chart also 
 Projects with goals over $15K had more failed than succeeded campaigns, except for the range of $35-45k mentioned before. Projects over $45K had the most failed campaigns.
 ![This is an image](Outcomes_vs_Goals.png)
 
-
-
-
-
 ## Results
+### Theater Outcomes by Launch Date
+According to the chart, the spring and summer shows the most successful campaigns launched in this period, therefore, from April to August are good months to launch a campaign. May seems the best month to launch a campaign, since it was the month that launched the most successful theater campaigns. The fall and winter present the months with most failed projects, specially December that is the only month that shows the number of failed is equal to successful campaigns, while any other month the number of successful exceeded the failed campaigns.
+
+### Plays Outcomes vs Goals
+According to the chart, campaigns with goals up to $10k had more success than failure cases, therefore, campaigns with fundraising goal up to $10K are more likely to succeed. There is an increase in the number of succeeded campaigns for the 35-45k campaigns, however, we would need to work more on those data to confirm this information. 
+
+### Limitations and Recommendations
+These charts provide limited information, since it does not shows information according to the country Louise would like to launch the play and the number of backers.
+The pivotable prepared for the Theater Outcomes by Launch Date analysis, should contain a filter "country", and the list of the Plays Outcomes vs Goals analysis should contain one more criteria to bring only outcomes from the country "US", therefore, the charts would give was a better understand of the region Louise intends to launch the project.
+Also, it would be important for Louise to understand how many backers she should expect to be able to meet her goal, in order to do that, we should create a list similar to the one we created for the Plays Outcomes vs Goals analysis, however, instead of the goal amount ranges, we should list the number of backers range, and the COUNTIF formulas should contain the criteria: outcome "Successful", goal amount ">=3000<=5000", county "US", subcategory "plays" and the range of bakers according to the list, therefore, Louise would be able to understand how many backers she should seek to be able to succeed.
