@@ -10,7 +10,7 @@ The chart below presents Theater campaigns outcomes according to the month the p
 This chart was prepared from a pivotable of the Kickstarter data in the Excel, using filter for the parent category "theater". The rows were determined by the launch month of the projects to count the number of successful, failed, or canceled campaigns according to the month the campaigns were launched. There was no challenge to perform this task, however, difficulty may be encountered to understand the order the pivotable must be organized to bring the right information requested.
 ###### Analysis:
 The month that launched the most successful theater campaigns was May. The number of successful projects started increasing in April, then in June the success of the projects started slowly declining.
-May, June, July and August had roughly the same number of failed campaigns launched, decreasing it in September, and the month that launched the most failed theater campaigns was October.
+May, June, July and August had roughly the same number of failed campaigns launched, decreasing in September. The month that launched the most failed theater campaigns was October.
 ![This is an image](Theater_Outcomes_vs_Launch.png)
 
 ### Plays Outcomes vs Goals
